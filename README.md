@@ -10,8 +10,7 @@ Aplicativo em React-native desenvolvido no evento NLW #15 Unite - React Native, 
 ## Instalação
 
 ```
-  git clone [path]/mobile.git
-  cd mobile
+  git clone https://github.com/jpauloads/nlw-react-native.git
 ```
 
 Instale todas as dependências do projeto com `npm install`.
